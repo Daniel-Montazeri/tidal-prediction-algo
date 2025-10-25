@@ -18,3 +18,20 @@ In this project, we used the Fast Fourier transform algorithm to predict tides i
   *  **images** : Sample images for illustration.
 
 # Images
+
+## Sample Tide Data
+![tidal_data_sample](http://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/tidal_data_sample.png "tidal_data_sample")
+
+## Fast Fourier Transform Analysis
+![fourier_analysis](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/fourier_analysis.png "fourier_analysis")
+
+## Using the Analog Tide Machine
+![analog_tide_machine](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/analog_tide_machine.png "analog_tide_machine")
+
+## Cross Correlation Between Fast Fourier Transform Prediction and Analog Tide Machine Prediction
+![cross_correlation](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/cross_correlation.png "cross_correlation")
+
+## Overlay of Fast Fourier Transform Prediction and Analog Tide Machine Prediction
+![overlay](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/overlay.png "overlay")
+
+
