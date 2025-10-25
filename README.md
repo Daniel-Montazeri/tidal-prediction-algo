@@ -20,7 +20,7 @@ In this project, we used the Fast Fourier transform algorithm to predict tides i
 # Images
 
 ## Sample Tide Data
-![tidal_data_sample](http://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/tidal_data_sample.png "tidal_data_sample")
+![tidal_data_sample](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/tidal_data_sample.png "tidal_data_sample")
 
 ## Fast Fourier Transform Analysis
 ![fourier_analysis](https://github.com/Daniel-Montazeri/tidal-prediction-algo/blob/main/images/fourier_analysis.png "fourier_analysis")
